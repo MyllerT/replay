@@ -24,7 +24,7 @@ const iconStyle = {
 
 const iconHoverStyle = {
   '&:hover': {
-    color: '#FFD700', // cor dourada ao passar o mouse
+    color: '#FFD700', 
   },
 };
 
@@ -33,7 +33,7 @@ function Footer() {
     <Box sx={footerStyle}>
       <Typography variant="body2" color="white">
         {'© '}
-        Futebol News {new Date().getFullYear()}
+        Replay {new Date().getFullYear()}
         {'.'}
       </Typography>
       <Box mt={1}>

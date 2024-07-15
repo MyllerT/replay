@@ -2,16 +2,16 @@ import img1 from '../../assets/img/ar.avif';
 import img2 from '../../assets/img/esp.webp';
 import img3 from '../../assets/img/fla.webp';
 import img4 from '../../assets/img/vitoria.jpg';
-import img5 from '../../assets/img/img1.webp';
+import img5 from '../../assets/img/san.webp';
 
 export const newsData = [
   {
     id: 1,
-    title: 'Argentina bate Colômbia ',
-    content: 'Com um gol decisivo de Lautaro Martínez na prorrogação, a Argentina triunfou sobre a Colômbia por 1 a 0 e conquistou seu segundo título consecutivo na Copa América.',
-    image: img1,
-    comment: 'Com um gol decisivo de Lautaro Martínez na prorrogação, a Argentina triunfou sobre a Colômbia por 1 a 0 e conquistou seu segundo título consecutivo na Copa América. Este triunfo marca o 16º título argentino no torneio, consolidando sua posição como a maior campeã da história. Lautaro Martínez, artilheiro do torneio com cinco gols, marcou o gol do título, redimindo-se de críticas e demonstrando a determinação da equipe em alcançar a glória.'
-  },
+    title: 'Santos x Ituano: onde assistir ao vivo',
+    content: 'Santos e Ituano se enfrentam nesta segunda-feira (15), às 20h (de Brasília), na Vila Belmiro, em partida válida pela 15ª rodada do Brasileirão Série B. O jogo terá transmissão ao vivo do Premiere',
+    image: img5,
+    comment: 'Ficha Técnica\nSANTOS X ITUANO\nSÉRIE B - 15ª RODADA\n\n🗓️ Data e horário: segunda-feira, 15 de julho de 2024, às 20h\n📍 Local: Vila Belmiro, em Santos (SP)\n📺 Onde assistir: SporTV e Premiere\n🟨 Árbitro: Lucas Paulo Torezin\n🚩 Assistentes: Victor Hugo Imazu dos Santos e Wagner Junior Bonfim Ledo\n📺 VAR: Carlos Eduardo Nunes Braga\n\n⚽ PROVÁVEIS ESCALAÇÕES:\n\nSANTOS (Técnico: Fábio Carille)\nGabriel Brazão; Aderlan, Gil, Jair e Escobar; João Schmidt, Diego Pituca e Serginho; Otero, Julio Furch e Guilherme.\n\nITUANO (Técnico: Alberto Valentim)\nJefferson Paulino; Léo Oliveira, Claudinho, Wálber e Kauan Richard; Rodrigo (Yann Rolim), Miquéias e José Aldo; Bruno Alves (Bruno Xavier), Vinícius Paiva e Salatiel.'
+},
   
   {
     id: 2,
@@ -38,13 +38,15 @@ export const newsData = [
   },
   
   {
-    id: 4,
-    title: 'Notícia 3',
-    content: 'Conteúdo da notícia 3content Lamine Yamal é um dos grandes nomes da campanha finalista da Espanha na Eurocopa 2024. Com apenas 17 anos completos hoje, o atacante do Barcelona segue quebrando recordes no futebol do Velho Continente: ele é o jogador mais jovem a atuar e marcar gols pela competição continental. Em evidência no cenário do futebol europeu, a joia chama atenção pela pouca idade',
-    image: img5
+    id: 5,
+    title: 'Argentina bate Colômbia ',
+    content: 'Com um gol decisivo de Lautaro Martínez na prorrogação, a Argentina triunfou sobre a Colômbia por 1 a 0 e conquistou seu segundo título consecutivo na Copa América.',
+    image: img1,
+    comment: 'Com um gol decisivo de Lautaro Martínez na prorrogação, a Argentina triunfou sobre a Colômbia por 1 a 0 e conquistou seu segundo título consecutivo na Copa América. Este triunfo marca o 16º título argentino no torneio, consolidando sua posição como a maior campeã da história. Lautaro Martínez, artilheiro do torneio com cinco gols, marcou o gol do título, redimindo-se de críticas e demonstrando a determinação da equipe em alcançar a glória.'
   },
+
   {
-    id: 4,
+    id: 6,
     title: 'Notícia 3',
     content: 'Conteúdo da notícia 3Lamine',
     image: img5
